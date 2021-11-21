@@ -1,0 +1,15 @@
+[
+    {
+        "nama": "IDALINNEA A",
+        "deskripsi": " Ritsleting yang tersembunyi membuat sarung mudah dilepas.  Sarung bantal dengan tampilan cermin karena memiliki pola yang sama di kedua sisi.  Katun adalah bahan alami lembut dan mudah dirawat yang dapat Anda cuci dengan mesin.",
+        "brand": "IKEA",
+        "kategori": "Mebel",
+        "harga": 79000,
+        "stock": 5,
+        "images": [
+          "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//103/MTA-2990748/shafiyyah-sarban_sarung-bantal-sofa--50x50-_full02.jpg",
+          "https://id-test-11.slatic.net/p/8f51deec16528473643df12b8f2201b3.jpg"
+        ],
+        "id": 1
+    }
+]
